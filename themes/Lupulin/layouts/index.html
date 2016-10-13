@@ -1,0 +1,10 @@
+{{ partial "header.html" }}
+    <div>
+        <div>
+            {{ range where .Site.Pages.ByTitle ".Params.on_tap" true }}
+                <div><a href="{{ .Permalink }}">{{ .Params.name }}</a></div>
+            {{ end }}
+        </div>
+    </div>
+{{ partial "footer.html" }}  
+ 

@@ -1,0 +1,7 @@
+baseurl = "http://LupulinBrewing.com/"
+languageCode = "en-us"
+title = "Lupulin Brewing Company"
+theme = "Lupulin"
+
+[params]
+    environment = "Development"
