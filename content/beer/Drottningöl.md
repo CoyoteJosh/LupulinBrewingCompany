@@ -1,5 +1,6 @@
 +++
 abv = 5.5
+ibu = 15
 date = "2015-08-05T00:00:00-00:00"
 name = "Drottningöl"
 on_tap = false

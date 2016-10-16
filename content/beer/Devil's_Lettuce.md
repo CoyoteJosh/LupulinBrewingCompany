@@ -1,5 +1,6 @@
 +++
 abv = 10
+ibu = 70
 date = "2015-09-19T00:00:00-00:00"
 name = "Devil's Lettuce"
 on_tap = false

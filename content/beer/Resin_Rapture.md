@@ -1,5 +1,6 @@
 +++
 abv = 8
+ibu = 100
 date = "2015-03-29T00:00:00-00:00"
 name = "Resin Rapture"
 on_tap = false

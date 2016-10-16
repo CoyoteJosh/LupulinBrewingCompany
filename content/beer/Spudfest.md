@@ -1,5 +1,6 @@
 +++
 abv = 5
+ibu = 12
 date = "2015-06-26T00:00:00-00:00"
 name = "Spudfest"
 on_tap = false

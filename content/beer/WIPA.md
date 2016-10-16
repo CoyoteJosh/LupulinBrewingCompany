@@ -1,5 +1,6 @@
 +++
 abv = 7
+ibu = 70
 date = "2015-07-17T00:00:00-00:00"
 name = "WIPA"
 on_tap = false

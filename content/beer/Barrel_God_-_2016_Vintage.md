@@ -1,5 +1,6 @@
 +++
 abv = 13
+ibu = 50
 date = "2016-08-07T00:00:00-00:00"
 name = "Barrel God - 2016 Vintage"
 on_tap = false

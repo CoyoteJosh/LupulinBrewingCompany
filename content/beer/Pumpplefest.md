@@ -1,8 +1,9 @@
 +++
 abv = 7.7
+ibu = 23
 date = "2015-10-10T00:00:00-00:00"
 name = "Pumpplefest"
-on_tap = true
+on_tap = false
 title = "Pumpplefest"
 
 +++

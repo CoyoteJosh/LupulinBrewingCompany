@@ -1,5 +1,6 @@
 +++
 abv = 7.5
+ibu = 75
 date = "2016-05-19T00:00:00-00:00"
 name = "Whiskey Barrel Aged West Coast Stout"
 on_tap = false

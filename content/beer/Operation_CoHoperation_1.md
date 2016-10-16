@@ -1,5 +1,6 @@
 +++
 abv = 9.8
+ibu = 70
 date = "2016-01-30T00:00:00-00:00"
 name = "Operation CoHoperation #1"
 on_tap = false

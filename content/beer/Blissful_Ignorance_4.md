@@ -1,5 +1,6 @@
 +++
 abv = 9
+ibu = 70
 date = "2016-08-07T00:00:00-00:00"
 name = "Blissful Ignorance #4"
 on_tap = false

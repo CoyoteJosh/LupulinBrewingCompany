@@ -1,5 +1,6 @@
 +++
 abv = 4.8
+ibu = 40
 date = "2015-05-30T00:00:00-00:00"
 name = "Tail Lights"
 on_tap = false

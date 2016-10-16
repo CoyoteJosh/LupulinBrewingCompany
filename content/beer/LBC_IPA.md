@@ -1,5 +1,6 @@
 +++
 abv = 8.5
+ibu = 80
 date = "2016-01-12T00:00:00-00:00"
 name = "LBC IPA"
 on_tap = false

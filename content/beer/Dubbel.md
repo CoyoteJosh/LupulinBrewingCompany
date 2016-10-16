@@ -1,5 +1,6 @@
 +++
 abv = 7.6
+ibu = 20
 date = "2015-11-28T00:00:00-00:00"
 name = "Dubbel"
 on_tap = false

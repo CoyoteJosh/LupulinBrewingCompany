@@ -1,5 +1,6 @@
 +++
 abv = 11.5
+ibu = 70
 date = "2016-08-07T00:00:00-00:00"
 name = "Rus"
 on_tap = false

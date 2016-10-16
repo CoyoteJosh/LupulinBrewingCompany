@@ -1,5 +1,6 @@
 +++
 abv = 9
+ibu = 60
 date = "2016-02-03T00:00:00-00:00"
 name = "Sycophant"
 on_tap = false

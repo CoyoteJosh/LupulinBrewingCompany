@@ -1,5 +1,6 @@
 +++
 abv = 3.9
+ibu = 18
 date = "2015-11-05T00:00:00-00:00"
 name = "Our Daily Bread"
 on_tap = false

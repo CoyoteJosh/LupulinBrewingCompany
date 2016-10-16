@@ -1,8 +1,9 @@
 +++
 abv = 5.5
+ibu = 60
 date = "2015-12-17T00:00:00-00:00"
 name = "Citra Red"
-on_tap = true
+on_tap = false
 title = "Citra Red"
 
 +++

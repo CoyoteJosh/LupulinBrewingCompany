@@ -1,8 +1,9 @@
 +++
 abv = 7.5
+ibu = 75
 date = "2015-03-29T00:00:00-00:00"
 name = "West Coast Stout"
-on_tap = true
+on_tap = false
 title = "West Coast Stout"
 
 +++

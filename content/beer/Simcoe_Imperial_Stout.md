@@ -1,5 +1,6 @@
 +++
 abv = 9
+ibu = 75
 date = "2015-04-24T00:00:00-00:00"
 name = "Simcoe Imperial Stout"
 on_tap = false

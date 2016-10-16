@@ -1,8 +1,9 @@
 +++
 abv = 5.4
+ibu = 35
 date = "2015-10-10T00:00:00-00:00"
 name = "PANDAS"
-on_tap = true
+on_tap = false
 title = "PANDAS"
 
 +++

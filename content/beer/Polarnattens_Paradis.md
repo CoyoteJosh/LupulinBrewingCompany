@@ -1,5 +1,6 @@
 +++
 abv = 7.8
+ibu = 50
 date = "2015-12-23T00:00:00-00:00"
 name = "Polarnattens Paradis"
 on_tap = false

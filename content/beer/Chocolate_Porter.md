@@ -1,8 +1,9 @@
 +++
 abv = 5.8
+ibu = 25
 date = "2015-05-15T00:00:00-00:00"
 name = "Chocolate Porter"
-on_tap = true
+on_tap = false
 title = "Chocolate Porter"
 
 +++

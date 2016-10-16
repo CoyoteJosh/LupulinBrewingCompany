@@ -1,8 +1,9 @@
 +++
 abv = 6.5
+ibu = 20
 date = "2015-03-29T00:00:00-00:00"
 name = "Belgian Blonde"
-on_tap = true
+on_tap = false
 title = "Belgian Blonde"
 
 +++

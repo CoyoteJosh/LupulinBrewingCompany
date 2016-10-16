@@ -1,5 +1,6 @@
 +++
 abv = 6
+ibu = 25
 date = "2015-06-21T00:00:00-00:00"
 name = "Tropical Orgasm"
 on_tap = false

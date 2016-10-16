@@ -1,5 +1,6 @@
 +++
 abv = 6
+ibu = 25
 date = "2015-07-04T00:00:00-00:00"
 name = "Jul i juli"
 on_tap = false
