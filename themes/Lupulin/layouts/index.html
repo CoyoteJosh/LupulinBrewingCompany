@@ -1,10 +1,22 @@
 {{ partial "header.html" }}
-    <div class="col-xs-12 col-sm- 6 col-md-6 col-lg-3">
-        <ul class="list-group">
-            {{ range where .Site.Pages.ByTitle ".Params.on_tap" true }}
-                <li class="list-group-item"><a href="{{ .Permalink }}">{{ .Params.name }}</a><span>ABV {{ .Params.abv }}</span></li>
+<div class="content">
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+		<ul class="list-group">
+			{{ range where .Site.Pages.ByTitle ".Params.on_tap" true }}
+			<li class="list-group-item">
+				<a href="{{ .Permalink }}">{{ .Params.name }}</a>
+				<span>ABV {{ .Params.abv }}</span>
+				<span> IBU {{ .Params.ibu }}</span>
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-6 col-lg-9 media event-poster">
+		<div class="media-middle">
+			{{ range where .Site.Pages "Section" "event"}}
+			    <img src="{{ .Params.image }}" alt="" class="center-block"> 
             {{ end }}
-        </ul>
-    </div>
-{{ partial "footer.html" }}  
-  
+		</div>
+	</div>
+</div>
+{{ partial "footer.html" }}

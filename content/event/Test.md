@@ -6,6 +6,6 @@ location = "Lupulin"
 name = "Test Name"
 time_of_event = "2:00pm"
 title = "Test"
-
+image = "october-live-copy.jpg"
 +++
 

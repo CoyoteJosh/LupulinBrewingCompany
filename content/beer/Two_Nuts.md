@@ -3,7 +3,7 @@ abv = 6.6
 ibu = 40
 date = "2015-08-20T00:00:00-00:00"
 name = "Two Nuts"
-on_tap = false
+on_tap = true
 title = "Two Nuts"
 
 +++

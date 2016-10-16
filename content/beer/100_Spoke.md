@@ -3,7 +3,7 @@ abv = 6.7
 ibu = 70
 date = "2015-12-31T00:00:00-00:00"
 name = "100 Spoke"
-on_tap = false
+on_tap = true
 title = "100 Spoke"
 
 +++
