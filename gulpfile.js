@@ -9,6 +9,8 @@ var runSequence = require('gulp-sequence');
 var static = 'static/**/*';
 var themes = 'themes/**/*';
 var paths = {
+    html: '**/*.html',
+    public_html: '!public/**/*.html',
     public: 'public',
     index: 'public/index.html',
     themes_javascript: themes + '.js',
@@ -53,7 +55,7 @@ gulp.task('inject', ['scripts', 'css']);
 
 
 gulp.task('watch', ['run_hugo'], function () {
-    gulp.watch([paths.themes_javascript, paths.javascript, paths.themes_css, paths.css], function (event) {
+    gulp.watch([paths.themes_javascript, paths.javascript, paths.themes_css, paths.css, paths.html, paths.public_html], function (event) {
         //once gulp 4.0 is released, which supports running tasks in series, this can be updated and the gulp-sequence package can probably be removed
         runSequence('run_hugo', 'inject')(function (err) {
             if (err) console.log(err);
