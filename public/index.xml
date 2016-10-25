@@ -1,105 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Lupulin Brewing Company</title>
+    <link>http://LupulinBrewing.com/</link>
+    <description>Recent content on Lupulin Brewing Company</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Oct 2016 23:23:13 -0500</lastBuildDate>
+    <atom:link href="http://LupulinBrewing.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>http://lupulinbrewing.com/event/Test/</link>
+      <pubDate>Thu, 13 Oct 2016 23:23:13 -0500</pubDate>
+      
+      <guid>http://lupulinbrewing.com/event/Test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Citra Red On Coffee</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Citra_Red_On_Coffee/</link>
+      <link>http://lupulinbrewing.com/beer/Citra_Red_On_Coffee/</link>
       <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Citra_Red_On_Coffee/</guid>
+      <guid>http://lupulinbrewing.com/beer/Citra_Red_On_Coffee/</guid>
       <description>&lt;p&gt;Small batch of Lupulin Citra Red, aged on coffee beans. Tastes nothing like regular Citra Red, very smooth, great coffee flavor.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Oaked Resin Rapture</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Oaked_Resin_Rapture/</link>
+      <link>http://lupulinbrewing.com/beer/Oaked_Resin_Rapture/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Oaked_Resin_Rapture/</guid>
+      <guid>http://lupulinbrewing.com/beer/Oaked_Resin_Rapture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rumpplefest</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Rumpplefest/</link>
+      <link>http://lupulinbrewing.com/beer/Rumpplefest/</link>
       <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Rumpplefest/</guid>
+      <guid>http://lupulinbrewing.com/beer/Rumpplefest/</guid>
       <description>&lt;p&gt;This double version of our Pumpplefest was aged for 9 months in Rum Barrels.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>STRICTLY ILLEGAL</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/STRICTLY_ILLEGAL/</link>
+      <link>http://lupulinbrewing.com/beer/STRICTLY_ILLEGAL/</link>
       <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/STRICTLY_ILLEGAL/</guid>
+      <guid>http://lupulinbrewing.com/beer/STRICTLY_ILLEGAL/</guid>
       <description>&lt;p&gt;Lock us up and throw away the key. Putting this many hops into a beer ought to be criminal. Call it wanton waste, negligence, what have you. We should be ashamed of ourselves. Ten different hops, over 10 lbs per barrel. This beer should be illegal. In fact, don&amp;rsquo;t even buy it, or you will be an accomplice to a criminal act. Just leave the rest for us. We know just how to get rid of the evidence&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Blood Orange Spudfest Infusion</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Blood_Orange_Spudfest_Infusion/</link>
+      <link>http://lupulinbrewing.com/beer/Blood_Orange_Spudfest_Infusion/</link>
       <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Blood_Orange_Spudfest_Infusion/</guid>
+      <guid>http://lupulinbrewing.com/beer/Blood_Orange_Spudfest_Infusion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mango Peach Blonde</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Mango_Peach_Blonde/</link>
+      <link>http://lupulinbrewing.com/beer/Mango_Peach_Blonde/</link>
       <pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Mango_Peach_Blonde/</guid>
+      <guid>http://lupulinbrewing.com/beer/Mango_Peach_Blonde/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maple Wood Aged Chocolate Porter</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Maple_Wood_Aged_Chocolate_Porter/</link>
+      <link>http://lupulinbrewing.com/beer/Maple_Wood_Aged_Chocolate_Porter/</link>
       <pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Maple_Wood_Aged_Chocolate_Porter/</guid>
+      <guid>http://lupulinbrewing.com/beer/Maple_Wood_Aged_Chocolate_Porter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mango Tail Lights</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Mango_Tail_Lights/</link>
+      <link>http://lupulinbrewing.com/beer/Mango_Tail_Lights/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Mango_Tail_Lights/</guid>
+      <guid>http://lupulinbrewing.com/beer/Mango_Tail_Lights/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barrel God - 2016 Vintage</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Barrel_God_-_2016_Vintage/</link>
+      <link>http://lupulinbrewing.com/beer/Barrel_God_-_2016_Vintage/</link>
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Barrel_God_-_2016_Vintage/</guid>
+      <guid>http://lupulinbrewing.com/beer/Barrel_God_-_2016_Vintage/</guid>
       <description>&lt;p&gt;God of the barrel. This beer commands respect and gets it. Brewed once per year and aged in barrels for over 12 months. Made to be an exercise in beer intensity and complexity. Very limited, as each vintage will push deeper into the depths of how dark and complex a beer can be.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Blissful Ignorance #4</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Blissful_Ignorance_4/</link>
+      <link>http://lupulinbrewing.com/beer/Blissful_Ignorance_4/</link>
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Blissful_Ignorance_4/</guid>
+      <guid>http://lupulinbrewing.com/beer/Blissful_Ignorance_4/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;NE Style Double IPA - Inspired by the wonderful hoppy beers coming out of the Northeast. This Double IPA is loaded with waves of some of the juiciest hops available. Citra, Mosaic, Columbus blend together to make this hop juice. Intentionally left hazy with yeast in suspension to create a soft mouthfeel and enhance the flavor of this wonderfully hoppy beer&lt;/li&gt;
 &lt;/ul&gt;
@@ -108,51 +117,41 @@
     
     <item>
       <title>Rus</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Rus/</link>
+      <link>http://lupulinbrewing.com/beer/Rus/</link>
       <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Rus/</guid>
+      <guid>http://lupulinbrewing.com/beer/Rus/</guid>
       <description>&lt;p&gt;Rus (pronounced Roos) - smooth, rich, dark Russian Imperial Stout with a balanced resinous hop. Named for the hearty people who conquered the area we now know as Russia. This beer is brewed to keep you warm on a cold winter night.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Chocolate Porter Infused With Coffee</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Chocolate_Porter_Infused_With_Coffee/</link>
+      <link>http://lupulinbrewing.com/beer/Chocolate_Porter_Infused_With_Coffee/</link>
       <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Chocolate_Porter_Infused_With_Coffee/</guid>
+      <guid>http://lupulinbrewing.com/beer/Chocolate_Porter_Infused_With_Coffee/</guid>
       <description>&lt;p&gt;Beautiful.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Vitabeetavegamin</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Vitabeetavegamin/</link>
+      <link>http://lupulinbrewing.com/beer/Vitabeetavegamin/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Vitabeetavegamin/</guid>
+      <guid>http://lupulinbrewing.com/beer/Vitabeetavegamin/</guid>
       <description>&lt;p&gt;Spudfest (made using Big Lake potatoes) infused with beets, honoring Lucille Ball for Pride Dabbler 2016&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Blissful Ignorance Batch #3</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Blissful_Ignorance_Batch_3/</link>
+      <link>http://lupulinbrewing.com/beer/Blissful_Ignorance_Batch_3/</link>
       <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Blissful_Ignorance_Batch_3/</guid>
+      <guid>http://lupulinbrewing.com/beer/Blissful_Ignorance_Batch_3/</guid>
       <description>&lt;p&gt;For this version of Blissful Ignorance we started with a rich, malty base. Then we layer in a whole bunch of our favorite hops - Simcoe, Citra, and Amarillo. If all of those juicy hops weren&amp;rsquo;t enough, we aged this beer on over 80 pounds of apricots for an intense fruity, juicy hop experience.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Brett Apricot</title>
-      <link>http://replace-this-with-your-hugo-site.com/beer/Brett_Apricot/</link>
-      <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://replace-this-with-your-hugo-site.com/beer/Brett_Apricot/</guid>
-      <description>&lt;p&gt;Our Apricot Blonde aged in Chardonnay barrels with 12 different strains of Brettanomyces&lt;/p&gt;
 </description>
     </item>
     

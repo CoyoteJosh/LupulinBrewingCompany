@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Lupulin Brewing Company</title>
+    <link>http://LupulinBrewing.com/event/</link>
+    <description>Recent content in Events on Lupulin Brewing Company</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Oct 2016 23:23:13 -0500</lastBuildDate>
+    <atom:link href="http://LupulinBrewing.com/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>http://lupulinbrewing.com/event/Test/</link>
+      <pubDate>Thu, 13 Oct 2016 23:23:13 -0500</pubDate>
+      
+      <guid>http://lupulinbrewing.com/event/Test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

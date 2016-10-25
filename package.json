@@ -1,0 +1,26 @@
+{
+  "name": "lupulin",
+  "version": "1.0.0",
+  "description": "A static website for Lupulin Brewing Company. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoyoteJosh/LupulinBrewingCompany.git"
+  },
+  "author": "Joshua Henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoyoteJosh/LupulinBrewingCompany/issues"
+  },
+  "homepage": "https://github.com/CoyoteJosh/LupulinBrewingCompany#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-inject": "^4.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-webserver": "^0.9.1"
+  }
+}
